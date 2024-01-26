@@ -9,3 +9,5 @@ The idea of shared task 2 is to automatically convert sentences in Indigenous la
 - target sentence: the sentence to be generated
 
 Concretely, this means that your system should be able to produce the fourth column if it's not provided, and test files will only consist of three columns.
+
+Registration: https://forms.gle/frWNPP7abj8BsNZ99
