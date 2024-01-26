@@ -1,0 +1,119 @@
+Bribri001	Ie’ tso bua’	TYPE:NEG	Ie’ kë̀ ku̠ bua’
+Bribri002	Ie’ tso bua’	TENSE:PER_REM, ASPECT:PER	Ie’ bák bua’
+Bribri003	Ie’ tso bua’	TYPE:NEG, TENSE:PER_REM, ASPECT:PER	Ie’ kë̀ ku̠’bak bua’
+Bribri004	Ie’ tso bua’	TYPE:NEG	Kë̀ i ku̠’ bua’
+Bribri005	Ye’ i̠ni̠’	TENSE:IMP_REC, ASPECT:IMP	Ie’ i̠nù̠
+Bribri006	Ye’ i̠ni̠’	TENSE:IMP_REC, ASPECT:IMP	Ye’ i̠nù̠
+Bribri007	Ye’ i̠ni̠’	TENSE:IMP_HAB, ASPECT:IMP	Ie’ i̠nù̠ke
+Bribri008	Ye’ i̠ni̠’	TENSE:IMP_HAB, ASPECT:IMP	Ye’ i̠nù̠ke̠
+Bribri009	Ye’ i̠ni̠’	TYPE:NEG, TENSE:IMP_HAB, ASPECT:IMP	Kë̀ ye’ i̠nù̠ku̠
+Bribri010	Ye’ i̠ni̠’	TENSE:PER_REC	Ie’ i̠né̠
+Bribri011	Ye’ i̠ni̠’	TENSE:IMP_REC, ASPECT:IMP, VOICE:MID	I̠nì̠r
+Bribri012	Ye’ i̠ni̠’	VOICE:MID	I̠nìne̠
+Bribri013	Ye’ i̠ni̠’	TYPE:NEG, VOICE:MID	Ye’ kë̀ i̠nì̠ne̠
+Bribri014	Ye’ i̠ni̠’	TENSE:FUT_CER, ASPECT:IMP	Ye’ i̠nù̠râ
+Bribri015	Ye’ i̠ni̠’	TYPE:NEG, TENSE:FUT_CER, ASPECT:IMP	Kë̀ ye’ i̠nù̠pa
+Bribri016	Ye’ i̠ni̠’	TENSE:IMP_REC, ASPECT:IMP	Ye’ tso i̠nú̠k
+Bribri017	Ye’ i̠ni̠’	TYPE:NEG, TENSE:IMP_REC, ASPECT:IMP	Ye’ kë̀ ku̠ i̠nú̠k
+Bribri018	Ye’ i̠ni̠’	TENSE:PAS	Ye’ i̠ní̠rule
+Bribri019	Ye’ i̠ni̠’	TYPE:NEG, TENSE:PAS	Ye’ kë̀ i̠ní̠rule
+Bribri020	Ye’ i̠ni̠’	TENSE:FUT_PT, ASPECT:IMP	Ye’ i̠nù̠mi̠
+Bribri021	Ye’ i̠ni̠’	TYPE:NEG, TENSE:FUT_PT, ASPECT:IMP	Kë̀ ye’ i̠nu̠k
+Bribri022	Ye’ i̠ni̠’	MODE:OPT, TENSE:IMP_HAB, ASPECT:IMP	Ie’ i̠na̠’ku
+Bribri023	Ye’ i̠ni̠’	MODE:EXH, TENSE:IMP_HAB, ASPECT:IMP, NUMBER:PL	Se’ i̠nù̠
+Bribri024	Ye’ i̠ni̠’	MODE:IMP, TENSE:IMP_REC, ASPECT:IMP	Ma̠ i̠nú̠
+Bribri025	Ye’ i̠ni̠’	TYPE:NEG, MODE:IMP, TENSE:IMP_REC, ASPECT:IMP	Kë̀ ma̠ i̠nu̠k
+Bribri026	Ye’ tö ù sú̠	TENSE:PER_REC	Ye’ tö ū̀ sa̠wé̠
+Bribri027	Ye’ tö ù sú̠	TENSE:IMP_CON, ASPECT:IMP	Ye’ tso ù sa̠u̠k
+Bribri028	Ye’ tö ù sú̠	VOICE:MID	Ù sù̠ne̠
+Bribri029	Ye’ tö ù sú̠	TYPE:NEG, VOICE:MID	Kë̀ ù sù̠ne̠
+Bribri030	Ye’ tö ù sú̠	TENSE:PER_REC, VOICE:MID	Ù sù̠na̠
+Bribri031	Ye’ tö ù sú̠	TENSE:IMP_REC, ASPECT:IMP, VOICE:MID	Ù sú̠r
+Bribri032	Ye’ tö ù sú̠	TYPE:NEG, TENSE:IMP_REC, ASPECT:IMP, VOICE:MID	Kë̀ ù sú̠r
+Bribri033	Ye’ tö ù sú̠	TYPE:NEG	Ye’ kë̀ wa̠ ù sù̠ne̠
+Bribri034	Ye’ tö ù sú̠	TENSE:PAS, VOICE:MID	Ù sú̠rule
+Bribri035	Ye’ tö ù sú̠	TENSE:PAS	Ie’pa wa̠ ù sú̠rule
+Bribri036	Ye’ tö ù sú̠	TYPE:NEG, TENSE:PAS	Kë̀ ie’pa wa̠ ù sú̠rule
+Bribri037	Ye’r i sú̠	TENSE:IMP_REC, ASPECT:IMP	Ye’r i sa̠wè̠
+Bribri038	Ye’r i sú̠	TENSE:FUT_CER, ASPECT:IMP	Ye’r i sa̠wè̠râ
+Bribri039	Ye’r i sú̠	TYPE:NEG, TENSE:FUT_CER, ASPECT:IMP	Kë̀ ye’r i sa̠wè̠pa
+Bribri040	Ye’r i sú̠	TENSE:IMP_HAB, ASPECT:IMP	Ye’r i sa̠wè̠ke̠
+Bribri041	Ye’r i sú̠	TYPE:NEG, TENSE:IMP_HAB, ASPECT:IMP	Kë̀ ye’r i sa̠wè̠ku̠
+Bribri042	Ye’r i sú̠	TENSE:FUT_PT, ASPECT:IMP	Ye’r i sa̠wè̠mi̠
+Bribri043	Ye’r i sú̠	TYPE:NEG, TENSE:FUT_PT, ASPECT:IMP	Kë̀ ye’r i sa̠u̠k
+Bribri044	Ye’r i sú̠	MODE:EXH, TENSE:IMP_HAB, ASPECT:IMP	I sa̠ù̠ sö
+Bribri045	Ye’r i sú̠	MODE:IMP, TENSE:IMP_REC, ASPECT:IMP	I sa̠ú̠
+Bribri046	Ye’r i sú̠	TYPE:NEG, MODE:IMP, TENSE:IMP_REC, ASPECT:IMP	Kë̀ be’ tö i sa̠u̠k
+Bribri047	Ye’r i sú̠	TYPE:NEG, MODE:IMP, TENSE:IMP_REC, ASPECT:IMP, VOICE:MID	Kë̀ i sa̠wa̠r
+Bribri048	Ye’r i sú̠	VOICE:MID	I sù̠ne̠
+Bribri049	Ye’r i sú̠	VOICE:MID, NUMBER:PL	I sù̠ne̠rak
+Bribri050	Ye’ tú̠ne̠’	TENSE:IMP_CON, ASPECT:IMP	Ye’ tso tú̠nu̠k
+Bribri051	Ye’ tú̠ne̠’	TENSE:IMP_REC, ASPECT:IMP	Ye’ tú̠n
+Bribri052	Ye’ tú̠ne̠’	TENSE:IMP_REC, ASPECT:IMP	I tú̠n
+Bribri053	Ye’ tú̠ne̠’	TENSE:IMP_REC, ASPECT:IMP, NUMBER:PL	I tú̠ndak
+Bribri054	Ye’ tú̠ne̠’	TENSE:FUT_CER, ASPECT:IMP	Ye’ tú̠rdâ
+Bribri055	Ye’ tú̠ne̠’	TYPE:NEG, TENSE:FUT_CER, ASPECT:IMP	Kë̀ ye’ tù̠rpa
+Bribri056	Ye’ tú̠ne̠’	TENSE:IMP_HAB, ASPECT:IMP	Ye’ tú̠rke̠
+Bribri057	Ye’ tú̠ne̠’	TYPE:NEG, TENSE:IMP_HAB, ASPECT:IMP	Kë̀ ye’ tú̠rku̠
+Bribri058	Ye’ tú̠ne̠’	TENSE:FUT_PT, ASPECT:IMP	Ye’ tú̠rmi̠
+Bribri059	Ye’ tú̠ne̠’	TYPE:NEG, TENSE:FUT_PT, ASPECT:IMP	Kë̀ ye tú̠nu̠k
+Bribri060	Ye’ stsë’	TENSE:PER_REC	Ye’ stsé
+Bribri061	Ye’ stsë’	TYPE:NEG	Ye’ kë̀ stsë̀ne̠
+Bribri062	Ye’ stsë’	VOICE:MID	Stsë̀ne̠
+Bribri063	Ye’ stsë’	TYPE:NEG, VOICE:MID	Kë̀ stsë́ne̠
+Bribri064	Ye’ stsë’	TENSE:IMP_REC, ASPECT:IMP	Ie’ stsö̀ bua’
+Bribri065	Ye’ stsë’	TYPE:NEG, TENSE:IMP_REC, ASPECT:IMP	Ie’ kë̀ stsö bua’
+Bribri066	Ye’ stsë’	TENSE:IMP_REC, ASPECT:IMP	Ye’ stsö̀
+Bribri067	Ye’ stsë’	TENSE:FUT_CER, ASPECT:IMP	Ye’ stsö̀râ
+Bribri068	Ye’ stsë’	TYPE:NEG, TENSE:FUT_CER, ASPECT:IMP	Kë̀ ye’ stsö̀pa
+Bribri069	Ye’ stsë’	TENSE:IMP_HAB, ASPECT:IMP	Ye’ stsö̀ke̠
+Bribri070	Ye’ stsë’	TYPE:NEG, TENSE:IMP_HAB, ASPECT:IMP	Kë̀ ye’ stsö̀ku̠
+Bribri071	Ye’ stsë’	TENSE:FUT_PT, ASPECT:IMP	Ye’ stsö̀mi̠
+Bribri072	Ye’ stsë’	TYPE:NEG, TENSE:FUT_PT, ASPECT:IMP	Kë̀ ye’ stsök
+Bribri073	Ye’ stsë’	MODE:ADV	Ye’ stsa’
+Bribri074	Be’ chka’	TENSE:IMP_REC, ASPECT:IMP	Be’ tso chkö́k
+Bribri075	Be’ chka’	TYPE:NEG, TENSE:IMP_REC, ASPECT:IMP	Be’ kë̀ ku̠ chkö́k
+Bribri076	Be’ chka’	MODE:IMP, TENSE:IMP_REC, ASPECT:IMP	Ba chkö́
+Bribri077	Be’ chka’	TYPE:NEG, MODE:IMP, TENSE:IMP_REC, ASPECT:IMP	Kë̀ ba chkök
+Bribri078	Ie’ tö àrros ña̠’	TENSE:PER_CON	Ie’ bák àrros ñu̠k
+Bribri079	Ye’ tö i̠ ña̠’wa	NUMBER:PL	Ye’ tö i̠ ña̠’alor
+Bribri080	Ye’ é̠n a̠ àrros ña̠’ku	TYPE:NEG	Kë̀ ye’ é̠n a̠ àrros ña̠’ku
+Bribri081	Ye’ tso’ dawèie	TENSE:PER_REC, ASPECT:PER	Ye’ tchá dawèie
+Bribri082	Ye’ tso’ dawèie	TENSE:PER_REM, ASPECT:PER	Ye’ bák dawèie
+Bribri083	Ye’ tö i kíme̠’	TENSE:IMP_CON, ASPECT:IMP	Ye’ tso i kímu̠k
+Bribri084	Ye’ tö i kíme̠’	MODE:IMP, TENSE:IMP_REC, ASPECT:IMP	I kimú̠
+Bribri085	Ye’ tö i kíme̠’	TENSE:IMP_REC, ASPECT:IMP	Ye’ tö i kimë̀
+Bribri086	Ye’ tö i kíme̠’	TENSE:IMP_HAB, ASPECT:IMP	Ye’ tö i kímë̀ke
+Bribri087	Ye’ tö i kít	MODE:IMP, TENSE:IMP_REC, ASPECT:IMP	I ishtö́
+Bribri088	Ye’ tö i kít	TYPE:NEG, MODE:IMP, TENSE:IMP_REC, ASPECT:IMP	Kë̀ be’ tö i ishtök
+Bribri089	Ye’ tö i kít	TYPE:NEG, MODE:IMP, TENSE:IMP_REC, ASPECT:IMP, VOICE:MID	Kë̀ i ishtar
+Bribri090	Ye’ tö i stsë’	MODE:IND, TENSE:IMP_HAB, ASPECT:IMP, VOICE:MID	I stsë́r
+Bribri091	Ye’ tö i stsë’	MODE:IND, TENSE:IMP_HAB, ASPECT:IMP, VOICE:MID	I stsë́rke̠
+Bribri092	Ye’ tö i stsë’	TYPE:NEG, MODE:IND, TENSE:IMP_HAB, ASPECT:IMP, VOICE:MID	Kë̀ i stsë́rku̠
+Bribri093	Ye’ tö i stsë’	MODE:IND, TENSE:FUT_PT, ASPECT:IMP, VOICE:MID	I stsë́rmi̠
+Bribri094	Ye’ tö i stsë’	TYPE:NEG, MODE:IND, TENSE:FUT_PT, ASPECT:IMP, VOICE:MID	Kë̀ i stsë̀nu̠k
+Bribri095	Ye’ tso i yö̀k	TENSE:PER_REM, ASPECT:PER	Ye’ tö i ya’
+Bribri096	Ye’ tso i yö̀k	TYPE:NEG, TENSE:PER_REM, ASPECT:PER	Ye’ kë̀ wa̠ i yàne̠
+Bribri097	Ye’ tso i yö̀k	MODE:OPT, TENSE:IMP_HAB, VOICE:MID	Kápi ya’ku
+Bribri098	Ye’ tso i yö̀k	MODE:ADV, TENSE:PER_REM, ASPECT:PER, VOICE:MID	Kápi ya’
+Bribri099	Ye’ tö i wámbalë’	TENSE:IMP_REC, ASPECT:IMP, VOICE:MID	I wámbalë́r
+Bribri100	Ye’ tö i wámbalë’	TENSE:FUT_CER, ASPECT:IMP, VOICE:MID	I wámbalë́rdâ
+Bribri101	Ye’ tö i wámbalë’	TYPE:NEG, TENSE:FUT_CER, ASPECT:IMP, VOICE:MID	Kë̀ i wámbalë̀rpa
+Bribri102	Skuë̀ ta̠’	TENSE:PER_REM, ASPECT:PER	Skuë̀ bák
+Bribri103	I̠nú̠köl ta̠’	TENSE:PER_REM, ASPECT:PER	I̠nú̠köl bák
+Bribri104	Ye’ shka’	MODE:OPT, TENSE:IMP_HAB, ASPECT:IMP	Ye’ shka’ku
+Bribri105	Ye’ shka’	TYPE:NEG, MODE:OPT, TENSE:IMP_HAB, ASPECT:IMP	Kë̀ ye’ shka’ku
+Bribri106	Ye’ shka’	TYPE:NEG, MODE:IMP, TENSE:IMP_REC, ASPECT:IMP, VOICE:MID	Kë̀ shkar
+Bribri107	Ye’ shka’	TYPE:NEG, TENSE:PER_CON, NUMBER:PL	Kë̀ sa’ ku̠’bak shkö́k
+Bribri108	Ye’ shka’	ASPECT:INC	Ye’ shka’mi̠
+Bribri109	Ye’ shka’	TENSE:PER_REC, ASPECT:INC	Ye’ shkémi̠
+Bribri110	Ye’ wa̠ sawë́ chka katárule	TYPE:NEG	Ye’ kë̀ wa̠ sawë́ chka katárule
+Bribri111	Ye’ wa̠ sawë́ chka katárule	VOICE:MID	Sawë́ chka katárule
+Bribri112	Ye’ ka̠nè̠balë’	TENSE:IMP_REC, ASPECT:IMP, VOICE:PAS	Ka̠nè̠balër
+Bribri113	Ye’ ka̠nè̠balë’	TYPE:NEG, TENSE:IMP_REC, ASPECT:IMP, VOICE:PAS	Kë̀ ka̠nè̠balër
+Bribri114	Ye’ e̠’ tkë’rë	TENSE:PER_REC	Ye’ e̠’ tkére
+Bribri115	Ye’ e̠’ tkë’rë	TENSE:IMP_REC, ASPECT:IMP	Ye’ e̠’ tkö̀rö
+Bribri116	Ye’ e̠’ tkë’rë	MODE:IMP, TENSE:IMP_REC, ASPECT:IMP	Be’ e̠’ tkö́rö
+Bribri117	Pûs kapë’wa̠	NUMBER:PL	Pûs kapë’ulur
+Bribri118	Ye’ tö skuë̀ kö́twa̠	NUMBER:PL	Ye’ tö skuë̀ kö́tulur
+Bribri119	Ie’ e̠’ tkë’wa̠	NUMBER:PL	Ie’ e̠’ tulu’wa̠
