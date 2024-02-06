@@ -4,7 +4,7 @@ import argparse
 
 def calculate_score_report(sys, ref, score_only):
 
-    chrf = sacrebleu.corpus_chrf(sys, ref)
+    chrf = sacrebleu.corpus_chrf(sys, ref, word_order=2)
     bleu = sacrebleu.corpus_bleu(sys, ref)
 
     prefix = 'BLEU = ' if score_only else ''
