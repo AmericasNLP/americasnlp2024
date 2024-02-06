@@ -37,7 +37,7 @@ The baseline system for this year will be the Helsinki System from 2023. Please 
 aym | Aymara | TBD
 bzd |Bribri | TBD
 cni | Asháninka| TBD
-czn | Chatino | TBD
+ctp | Chatino | TBD
 gn | Guarani| TBD
 hch |Wixarika | TBD
 nah | Nahuatl|TBD
