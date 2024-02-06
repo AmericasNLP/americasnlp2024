@@ -1,7 +1,7 @@
 # AmericasNLP 2024 Shared Task on Machine Translation into Indigenous Languages
 
 Welcome to the Machine Translation Shared Task into Indigenous Languages! We are excited to host the **3rd iteration** of the Shared Task. For reference to the prior shared tasks, winning submissions, and further analysis on the data and results, please see the following Findings papers, from [2021](https://aclanthology.org/2021.americasnlp-1.23/) and [2023](https://aclanthology.org/2023.americasnlp-1.23/). 
-System description papers can be found [here for 2021](https://aclanthology.org/volumes/2021.americasnlp-1/)and [here for 2023](https://aclanthology.org/volumes/2023.americasnlp-1/). 
+System description papers can be found [here for 2021](https://aclanthology.org/volumes/2021.americasnlp-1/) and [here for 2023](https://aclanthology.org/volumes/2023.americasnlp-1/). 
 
 ## Updates
 
