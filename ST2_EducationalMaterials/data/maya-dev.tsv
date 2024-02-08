@@ -1,0 +1,150 @@
+ID	Source	Change	Target
+Maya0066	Janalnajen tu k'íiwikil koonol	PERSON:1_PL	Janalnajo'on tu k'íiwikil koonol
+Maya0067	Janalnajen tu k'íiwikil koonol	PERSON:2_PL	Janalnaje'ex tu k'íiwikil koonol
+Maya0068	Janalnajen tu k'íiwikil koonol	PERSON:2_SI	J-Jaanech tu k'íiwikil koonol
+Maya0622	Táan ek bin ich kool	TYPE:NEG	Ma' táan ek bin ich kooli'
+Maya0623	Táan ek bin ich kool	SUBTYPE:INT	Táan wáaj ek bin ich kool
+Maya0605	Teche' ka bin xíimbal tu najil	TYPE:NEG	Teche' ma' ta bin xíimbal tu najil
+Maya0606	Teche' ka bin xíimbal tu najil	SUBTYPE:INT	Teche' ka bin xíimbal tu najil wáaj
+Maya0127	Te'exe' táan a bine'ex koonol tu k'íiwikil koonol	TYPE:NEG	Ma' táan a bine'ex koonol tu k'íiwikil koonoli'
+Maya0128	Te'exe' táan a bine'ex koonol tu k'íiwikil koonol	SUBTYPE:INT	Táan wáaj a bine'ex koonol tu k'íiwikil koonol
+Maya0259	Táan in míistik a wotoch	PERSON:2_SI	Táan a míistik a wotoch
+Maya0160	Ma' jach k'a'abéet in bin merkaadoi'	PERSON:3_SI	Ma' jach k'a'abéet u bin merkaadoi'
+Maya0161	Ma' jach k'a'abéet in bin merkaadoi'	PERSON:3_PL	Ma' jach k'a'abéet u bino'ob merkaadoi'
+Maya0162	Ma' jach k'a'abéet in bin merkaadoi'	PERSON:2_PL	Ma' jach k'a'abéet a bine'ex merkaadoi'
+Maya0188	Ba'ax k'iin a bin merkaado	PERSON:2_PL	Ba'ax k'iin a bine'ex merkaado
+Maya0189	Ba'ax k'iin a bin merkaado	PERSON:3_PL	Ba'ax k'iin u bino'ob merkaado
+Maya0245	Táan in meyaj tin wotoch	PERSON:2_SI	Táan a meyaj ta wotoch
+Maya0246	Táan in meyaj tin wotoch	PERSON:3_SI	Táan u meyaj tu yotoch
+Maya0247	Táan in meyaj tin wotoch	PERSON:3_PL	Leti'obe' táan u meyajo'ob tin wotoch
+Maya0248	Táan in meyaj tin wotoch	PERSON:2_PL	Te'exe' táan a meyaje'ex tin wotoch
+Maya0249	Táan in meyaj tin wotoch	PERSON:1_PL	Táan ek meyaj tin wotoch
+Maya0650	Tan in k'íilkab	SUBTYPE:INT	Tan in k'íilkab wáaj
+Maya0651	Tan in k'íilkab	TYPE:NEG	Ma' tan in k'íilkabi'
+Maya0308	Ba'ax k'iin a bin ich kool	PERSON:3_SI	Ba'ax k'iin u bin tu kool
+Maya0309	Ba'ax k'iin a bin ich kool	PERSON:2_PL	Ba'ax k'iin a bine'ex ta koole'ex
+Maya0310	Ba'ax k'iin a bin ich kool	PERSON:3_PL	Ba'ax k'iin u bino'ob tu koolo'ob
+Maya0268	Tin manaj in najil	PERSON:2_SI	Ta manaj a najil
+Maya0129	Táan k bin koonol tu k'íiwikil koonol	TYPE:NEG	Ma' táan k bin koonol tu k'íiwikil koonoli'
+Maya0130	Táan k bin koonol tu k'íiwikil koonol	SUBTYPE:INT	Táan wáaj k bin koonol tu k'íiwikil koonol
+Maya0683	Tene' in wojel u ja'abili'	TYPE:NEG	Ma' in wojel u ja'abili'
+Maya0684	Tene' in wojel u ja'abili'	SUBTYPE:INT	Tene' in wojel u ja'abili' wáaj
+Maya0527	Tin wa'alaj ka'ap'éel in k'aaba'	PERSON:2_SI	Ta wa'alaj ka'ap'éel a k'aaba'
+Maya0528	Tin wa'alaj ka'ap'éel in k'aaba'	PERSON:3_SI	Tu ya'alaj ka'ap'éel u k'aaba'
+Maya0529	Tin wa'alaj ka'ap'éel in k'aaba'	PERSON:1_PL	Tek a'alaj ka'ap'éel k k'aaba'
+Maya0530	Tin wa'alaj ka'ap'éel in k'aaba'	PERSON:3_PL	Ta wa'alaje'ex ka'ap'éel a k'aaba'ex
+Maya0531	Tin wa'alaj ka'ap'éel in k'aaba'	PERSON:3_PL	Tu ya'alajo'ob ka'ap'éel u k'aaba'ob
+Maya0657	Tu yilaj u sáastal tu kaajal	TYPE:NEG	Ma' tu yilaj u sáastal tu kaajali'
+Maya0658	Tu yilaj u sáastal tu kaajal	SUBTYPE:INT	Tu yilaj wáaj u sáastal tu kaajal
+Maya0331	Tin manaj u k'áaxil uti'al in beetik in kool	PERSON:2_SI	Ta manaj u k'áaxil a beetik a kool
+Maya0279	Táan in bin ich kool	PERSON:2_SI	Táan a bin ich kool
+Maya0280	Táan in bin ich kool	PERSON:3_SI	Táan u bin tu kool
+Maya0281	Táan in bin ich kool	PERSON:3_PL	Táan u bino'ob ich kool
+Maya0282	Táan in bin ich kool	PERSON:2_PL	Táan a bine'ex ich kool
+Maya0283	Táan in bin ich kool	PERSON:1_PL	Táan ek bin ich kool
+Maya0110	Táan in bin koonol tu k'íiwikil koonol	TYPE:NEG	Ma' táan in bin koonol tu k'íiwikil koonol
+Maya0111	Táan in bin koonol tu k'íiwikil koonol	SUBTYPE:INT	Táan in bin koonol tu k'íiwikil koonol wáaj
+Maya0688	Teche' ti' kajakbalech tu yotoche'	TYPE:NEG	Ma' kajakbalech tu wotochi'
+Maya0689	Teche' ti' kajakbalech tu yotoche'	TYPE:NEG	Ma' wáaj kajakbalech tu yotochi'
+Maya0196	Te'exe' áak'ab ka bine'ex tu k'íiwikil koonol	SUBTYPE:INT	Te'exe' áak'ab wáaj ka bine'ex tu k'íiwikil koonol
+Maya0197	Te'exe' áak'ab ka bine'ex tu k'íiwikil koonol	TYPE:NEG, SUBTYPE:INT	Te'exe' ma' áak'ab wáaj ka bine'ex tu k'íiwikil koonoli'
+Maya0614	Táan a bin ich kool	TYPE:NEG	Ma' táan a bin ich kooli'
+Maya0615	Táan a bin ich kool	SUBTYPE:INT, PERSON:1_SI	Táan wáaj a bin ich kool
+Maya0132	Teche' áak'ab ka bin tu k'íiwikil koonol	SUBTYPE:INT	Teche' áak'ab wáaj ka bin tu k'íiwikil koonol
+Maya0133	Teche' áak'ab ka bin tu k'íiwikil koonol	TYPE:NEG, SUBTYPE:INT	Teche' ma' áak'ab wáaj ka bin tu k'íiwikil koonoli'
+Maya0544	Ma' wáaj in chuk u ja'abili'	PERSON:2_SI	Ma' wáaj a chuk u ja'abili'
+Maya0545	Ma' wáaj in chuk u ja'abili'	PERSON:3_SI	Ma' wáaj u chuk u ja'abili'
+Maya0546	Ma' wáaj in chuk u ja'abili'	PERSON:1_PL	Ma' wáaj k chuk u ja'abili'
+Maya0547	Ma' wáaj in chuk u ja'abili'	PERSON:2_PL	Ma' wáaj a chuke'ex u ja'abili'
+Maya0548	Ma' wáaj in chuk u ja'abili'	PERSON:3_PL	Ma' wáaj u chuko'ob u ja'abili'
+Maya0507	Tene' ma' ts'oka'an in beeli'	PERSON:2_SI	Teche' ma' ts'oka'an a beeli'
+Maya0508	Tene' ma' ts'oka'an in beeli'	PERSON:3_SI	Leti'e' ma' ts'oka'an u beeli'
+Maya0509	Tene' ma' ts'oka'an in beeli'	PERSON:1_PL	To'one' ma' ts'oka'an k beeli'
+Maya0510	Tene' ma' ts'oka'an in beeli'	PERSON:2_PL	Te'exe' ma' ts'oka'an a beele'exi'
+Maya0511	Tene' ma' ts'oka'an in beeli'	PERSON:3_PL	Leti'obe' ma' ts'oka'an u beelo'obi'
+Maya0472	Teche' jbúulech wáaj	PERSON:3_SI	Leti'e' jbúul wáaj
+Maya0473	Teche' jbúulech wáaj	PERSON:1_PL	To'one' jbúulo'on wáaj
+Maya0474	Teche' jbúulech wáaj	PERSON:2_PL	Te'exe' jbúule'ex wáaj
+Maya0671	Leti'e' u k'aaba'e'	SUBTYPE:INT	Bix u k'aaba'
+Maya0672	Leti'e' u k'aaba'e'	TYPE:NEG, ASPECT:NA	Ma' u k'aaba'i'
+Maya0263	Ma' tin kaxtaj a wotochi'	PERSON:3_SI	Ma' tu kaxtaj a wotochi'
+Maya0125	Leti'obe' táan u bino'ob koonol tu k'íiwikil koonol	TYPE:NEG	Ma' táan u bino'ob koonol tu k'íiwikil koonoli'
+Maya0126	Leti'obe' táan u bino'ob koonol tu k'íiwikil koonol	SUBTYPE:INT	Táan wáaj u bino'ob koonol tu k'íiwikil koonol
+Maya0422	Yaan wáaj a boon tu naajil xook	PERSON:3_SI	Yaan wáaj u boon tu naajil xook
+Maya0423	Yaan wáaj a boon tu naajil xook	PERSON:1_PL	Yaan wáaj k boon tu naajil xook
+Maya0424	Yaan wáaj a boon tu naajil xook	PERSON:2_PL	Yaan wáaj a boone'ex xook tu naajil xook
+Maya0425	Yaan wáaj a boon tu naajil xook	PERSON:3_PL	Yaan wáaj u boono'ob tu naajil xook
+Maya0336	Tene' kin pak'ik nal tin kool	PERSON:2_SI	Teche' ka pak'ik nal ta kool
+Maya0337	Tene' kin pak'ik nal tin kool	PERSON:3_SI	Leti'e' ku pak'ik nal tu kool
+Maya0338	Tene' kin pak'ik nal tin kool	PERSON:1_PL	To'one' kek pak'ik nal tek kool
+Maya0339	Tene' kin pak'ik nal tin kool	PERSON:2_PL	Te'exe' ka pak'ike'ex nal ta koole'ex
+Maya0340	Tene' kin pak'ik nal tin kool	PERSON:3_PL	Leti'obe' ku pak'iko'ob nal tu koolo'ob
+Maya0633	Jach k'a'abéet a bine'ex ta koole'ex	TYPE:NEG	Ma' jach k'a'abéet a bine'ex ta koole'exi'
+Maya0634	Jach k'a'abéet a bine'ex ta koole'ex	TYPE:NEG, SUBTYPE:INT	Ma' wáaj jach k'a'abéet a bine'ex ta koole'exi'
+Maya0060	Kin wilikech tu k'íiwikil koonol	PERSON:2_SI	Ka wiliken tu k'íiwikil koonol
+Maya0061	Kin wilikech tu k'íiwikil koonol	PERSON:1_PL	Kak ilikabáaj tu k'íiwikil koonol
+Maya0532	Jayp'éel ja'ab yaanten	PERSON:3_SI	Jayp'éel ja'ab yaanti'
+Maya0533	Jayp'éel ja'ab yaanten	PERSON:1_PL	Jayp'éel ja'ab yaanto'on
+Maya0534	Jayp'éel ja'ab yaanten	PERSON:2_PL	Jayp'éel ja'ab yaante'ex
+Maya0535	Jayp'éel ja'ab yaanten	PERSON:3_PL	Jayp'éel ja'ab yaanti'ob
+Maya0694	To'one' ti' k taali'	TYPE:NEG	Ma' ti' k taali'
+Maya0695	To'one' ti' k taali'	SUBTYPE:INT	Ti' wáaj k taali'
+Maya0303	Jach k'a'abéet wáaj a bin ich kool	PERSON:1_SI	Jach k'a'abéet wáaj in bin ich kool
+Maya0304	Jach k'a'abéet wáaj a bin ich kool	PERSON:3_SI	Jach k'a'abéet wáaj u bin ich kool
+Maya0305	Jach k'a'abéet wáaj a bin ich kool	PERSON:3_PL	Jach k'a'abéet wáaj u bino'ob tu koolo'obi'
+Maya0306	Jach k'a'abéet wáaj a bin ich kool	PERSON:2_PL	Jach k'a'abéet wáaj a bine'ex ta koole'ex
+Maya0056	Tene' ma' áak'ab kin bin tu k'íiwikil koonoli'	PERSON:2_SI	Teche' ma' áak'ab ka bin tu k'íiwikil koonoli'
+Maya0057	Tene' ma' áak'ab kin bin tu k'íiwikil koonoli'	PERSON:2_SI	Leti'e' ma' áak'ab ku bin tu k'íiwikil koonoli'
+Maya0058	Tene' ma' áak'ab kin bin tu k'íiwikil koonoli'	PERSON:1_PL	To'one' ma' áak'ab k bin tu k'íiwikil koonoli'
+Maya0059	Tene' ma' áak'ab kin bin tu k'íiwikil koonoli'	PERSON:2_PL	Te'exe' ma' áak'ab ka bine'ex tu k'íiwikil koonoli'
+Maya0630	Jach k'a'abéet u bino'ob tu koolo'ob	SUBTYPE:INT	Jach k'a'abéet wáaj u bino'ob tu koolo'obi'
+Maya0631	Jach k'a'abéet u bino'ob tu koolo'ob	TYPE:NEG, SUBTYPE:INT	Ma' wáaj jach k'a'abéet u bino'ob tu koolo'obi'
+Maya0632	Jach k'a'abéet u bino'ob tu koolo'ob	TYPE:NEG	Ma' jach k'a'abéet u bino'ob tu koolo'obi'
+Maya0084	Jweenen tu k'íiwikil koonol	PERSON:2_SI	Jweenech tu k'íiwikil koonol
+Maya0085	Jweenen tu k'íiwikil koonol	PERSON:3_PL	Jweeno'ob tu k'íiwikil koonol
+Maya0086	Jweenen tu k'íiwikil koonol	PERSON:2_PL	Jweene'ex tu k'íiwikil koonol
+Maya0690	Te'exe' ti' kajakbale'ex tu yotoche'	TYPE:NEG	Ma' kajakbale'ex tu wotochi'
+Maya0691	Te'exe' ti' kajakbale'ex tu yotoche'	TYPE:NEG, SUBTYPE:INT	Ma' wáaj kajakbale'ex tu yotochi'
+Maya0078	Ma' táan wáaj  a bin tu k'íiwikil koonol	PERSON:2_PL	Ma' táan wáaj  a bine'ex tu k'íiwikil koonol
+Maya0079	Ma' táan wáaj  a bin tu k'íiwikil koonol	PERSON:3_PL	Ma' táan wáaj  u bino'ob tu k'íiwikil koonol
+Maya0202	Jsa'atech te' tu kúuchil báaxalo'	SUBTYPE:INT	Jsa'atech wáaj te' tu kúuchil báaxalo'
+Maya0300	Jach k'a'abéet a bin ich kool	PERSON:3_SI	Jach k'a'abéet u bin tu kool
+Maya0301	Jach k'a'abéet a bin ich kool	PERSON:3_PL	Jach k'a'abéet u bino'ob tu koolo'ob
+Maya0302	Jach k'a'abéet a bin ich kool	PERSON:2_PL	Jach k'a'abéet a bine'ex ta koole'ex
+Maya0589	Máax yéetel kajakbalen	PERSON:2_SI	Máax yéetel kajakbalech
+Maya0590	Máax yéetel kajakbalen	PERSON:3_SI	Máax yéetel kajakbal
+Maya0591	Máax yéetel kajakbalen	PERSON:1_PL	Máax yéetel kajakbalo'on
+Maya0592	Máax yéetel kajakbalen	PERSON:2_PL	Máax yéetel kajakbale'ex
+Maya0593	Máax yéetel kajakbalen	PERSON:3_PL	Máax yéetel kajakbalo'ob
+Maya0478	Tin wilaj u sáastal tin kaajal	PERSON:2_SI	Ta wilaj u sáastal ta kaajal
+Maya0479	Tin wilaj u sáastal tin kaajal	PERSON:3_SI	Tu yilaj u sáastal tu kaajal
+Maya0480	Tin wilaj u sáastal tin kaajal	PERSON:1_PL	k ilaj u sáastal k kaajal
+Maya0481	Tin wilaj u sáastal tin kaajal	PERSON:3_PL	Tu yilo'ob u sáastal tu kaajalo'ob
+Maya0482	Tin wilaj u sáastal tin kaajal	PERSON:2_PL	Ta wile'ex u sáastal ta kaajale'ex
+Maya0080	Sáansamal kin bin tu k'íiwikil koonol	PERSON:2_SI	Sáansamal ka bin tu k'íiwikil koonol
+Maya0081	Sáansamal kin bin tu k'íiwikil koonol	PERSON:3_SI	Sáansamal ku bin tu k'íiwikil koonol
+Maya0082	Sáansamal kin bin tu k'íiwikil koonol	PERSON:3_PL	Sáansamal ku bino'ob tu k'íiwikil koonol
+Maya0083	Sáansamal kin bin tu k'íiwikil koonol	PERSON:2_PL	Sáansamal ka bine'ex tu k'íiwikil koonol
+Maya0264	Tene' kin bin xíimbal tu najil	PERSON:2_SI	Teche' ka bin xíimbal tu najil
+Maya0265	Tene' kin bin xíimbal tu najil	PERSON:3_SI	Leti'e' ku bin xíimbal ta najil
+Maya0266	Tene' kin bin xíimbal tu najil	PERSON:1_PL	To'one' k bin xíimbal ta najil
+Maya0267	Tene' kin bin xíimbal tu najil	PERSON:2_PL	Te'exe' ka bine'ex xíimbal tu najil
+Maya0237	Jbinen xook te' paarkéeo'	SUBTYPE:INT, PERSON:2_SI	Jbinech wáaj xook te' paarkéeo'
+Maya0238	Jbinen xook te' paarkéeo'	PERSON:3_SI	Leti'e' jbin xook te' paarkéeo'
+Maya0239	Jbinen xook te' paarkéeo'	PERSON:2_PL	Te'exe' jbine'ex xook te' paarkéeo'
+Maya0240	Jbinen xook te' paarkéeo'	PERSON:1_PL	To'one' jbino'on xook te' paarkéeo'
+Maya0241	Jbinen xook te' paarkéeo'	PERSON:3_PL	Leti'o'obe' jbino'ob xook te' paarkéeo'
+Maya0250	Tin meentik janal tin wotoch	PERSON:2_SI	Ta meentik janal tin wotoch
+Maya0251	Tin meentik janal tin wotoch	PERSON:3_SI	Tu meentik janal tin wotoch
+Maya0252	Tin meentik janal tin wotoch	PERSON:3_PL	Leti'obe' tu meentiko'ob janal tin wotoch
+Maya0253	Tin meentik janal tin wotoch	PERSON:2_PL	Te'exe' ta meentike'ex janal tin wotoch
+Maya0269	Yaan wáaj a manik a najil	PERSON:3_SI	Yaan wáaj u manik u najil
+Maya0741	Ba'atelnaj te' tu kúuchil báaxalo'	STATUS:ICM, ASPECT:PRG, TENSE:PRE_SIM	Táan u ba'atel te' tu kúuchil báaxalo'
+Maya0072	Ba'ax k'iin a bin tu k'íiwikil koonol	PERSON:3_SI	Ba'ax k'iin u bin tu k'íiwikil koonol
+Maya0073	Ba'ax k'iin a bin tu k'íiwikil koonol	PERSON:2_PL	Ba'ax k'iin a bine'ex k'íiwikil koonol
+Maya0074	Ba'ax k'iin a bin tu k'íiwikil koonol	PERSON:3_PL	Ba'ax k'iin u bino'ob k'íiwikil koonol
+Maya0355	jaanajen tu naajil xook	PERSON:1_PL	jaanajo'on tu naajil xook
+Maya0356	jaanajen tu naajil xook	PERSON:2_PL	jaanaje'ex tu naajil xook
+Maya0357	jaanajen tu naajil xook	PERSON:2_SI	janech tu naajil xook
+Maya0679	Ta'aytak a chukik u ja'abil	TYPE:NEG, MODE:SUB, ADVTENSE:NA, PERSON:3_SI	Ma' u chuk u ja'abili'
+Maya0680	Ta'aytak a chukik u ja'abil	TYPE:NEG, SUBTYPE:INT, MODE:SUB, ADVTENSE:NA, PERSON:3_SI	Ma' wáaj u chuk u ja'abili'
