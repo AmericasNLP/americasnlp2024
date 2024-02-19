@@ -2,6 +2,10 @@
 
 The baseline system is based on [edit trees](https://doras.dcu.ie/550/1/GrzegorzPhDFinal.pdf) ([inspiration](https://aclanthology.org/P16-2090.pdf)).
 
+The system performes the following steps:
+- For "training", it calculates frequency of each edit tree per a change to be conducted in the training data. Edit trees are obtained from all pairs of source and target sentences for a given change.
+- For "testing",  it attempts to modify a given source sentence according to a change to be conducted by appling all trees for that change in order of their frequency in the training data. It stops when an applicable tree is found, and outputs the result. If no applicable tree exists for a given source sentence and change, it outputs the source sentence.
+
 ## Installation
 
 ```
