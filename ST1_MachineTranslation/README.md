@@ -28,20 +28,38 @@ We are more than happy to answer any questions regarding the workshop or shared 
 4. For this year, we will **not** allow multiple submissions which rely on the same model (by same, we mean the same exact weights and architecture). As an example, if a submitted system relies on a specific model (say Model A), a second submission which relies on a new model (Model B) for some languages, but falls back to Model A given dev set performance, is not allowed. In this case, there are two allowed possibilites: (1) submit Model B as an independent submission with no fallback to Model A or (2) withdraw the original submission of Model A, and submit the system which relies on both Model A and Model B as a single submission. As a rule of thumb, two submissions from the same team should not have the same exact performance for a given language unless by chance. 
 
 
-## Baseline System and Languages
+## Baseline Systems 
 
-The baseline system for this year will be the Helsinki System from 2023. Please check this repository soon for updates on baseline performance per language as well as code to get it running.  
+This year we provide two baseline systems, based on the best contenders of the previous year's results.
+- [Sheffield](https://aclanthology.org/2023.americasnlp-1.21/): you can find more information [here](baselines/sheffield)
+- [Helsinki](https://aclanthology.org/2023.americasnlp-1.20/): you can find more information [here](baselines/helsinki)
 
-| ISO| Language | ChrF |
+We provide ChrF++ results computed with the [evaluate.py](evaluate.py) script.
+
+*Coming soon*: Sheffield baseline
+
+## Results
+
+### Development set
+
+Results for development sets in ChrF++: 
+
+
+| ISO| Language | Helsinki | Sheffield
 ---|---|----
-aym | Aymara | TBD
-bzd |Bribri | TBD
-cni | Asháninka| TBD
-ctp | Chatino | TBD
-gn | Guarani| TBD
-hch |Wixarika | TBD
-nah | Nahuatl|TBD
-oto | Otomí| TBD
-quy |Quechua | TBD
-shp |Shipibo-Konibo | TBD
-tar |Rarámuri | TBD
+aym | Aymara | 13.08 | TBD
+bzd |Bribri | 9.74 | TBD
+cni | Asháninka | 13.18 | TBD
+ctp | Chatino |  8.93 | TBD
+gn | Guarani | 19.26 | TBD
+hch | Wixarika | 15.80 | TBD
+nah | Nahuatl | 14.50 | TBD
+oto | Otomí |  12.43 | TBD
+quy | Quechua | 14.07 | TBD
+shp | Shipibo-Konibo | 12.95 | TBD
+tar | Rarámuri | 12.57 | TBD
+
+
+### Test set
+
+Results for test sets: **TBD**
