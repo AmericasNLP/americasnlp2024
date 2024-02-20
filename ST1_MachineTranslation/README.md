@@ -46,7 +46,7 @@ Results for development sets in ChrF++:
 
 
 | ISO| Language | Helsinki | Sheffield
----|---|----
+---|---|----|----
 aym | Aymara | 13.08 | TBD
 bzd |Bribri | 9.74 | TBD
 cni | Asháninka | 13.18 | TBD
