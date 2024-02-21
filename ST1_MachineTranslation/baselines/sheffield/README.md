@@ -16,7 +16,7 @@ We use submission #3 for most languages and submission #2 for `aym`, `gn`, `quy`
 
 1) Download models from: https://drive.google.com/drive/folders/12MCYFD5Q9YRWrRCWjqjEorsDLgGp_gXB?usp=sharing 
 
-2) Install fairseq and checkout the nllb branch
+2) Install [fairseq](https://github.com/facebookresearch/fairseq.git) and checkout the nllb branch
 
 3) Clone the GitHub repo https://github.com/edwardgowsmith/americasnlp-2023-sheffield/ and put the preproccess.sh and generate.sh scripts from here in that directory
 
