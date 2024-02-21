@@ -42,8 +42,7 @@ We provide ChrF++ results computed with the [evaluate.py](evaluate.py) script.
 
 ### Development set
 
-Results for development sets in ChrF++: 
-
+Results for development sets in **ChrF++**: 
 
 | ISO| Language | Helsinki | Sheffield
 ---|---|----|----
@@ -62,4 +61,18 @@ tar | Rarámuri | 12.57 | TBD
 
 ### Test set
 
-Results for test sets: **TBD**
+Results for test sets in **Chrf++**:
+
+| ISO| Language | Helsinki | Sheffield
+---|---|----|----
+aym | Aymara | 29.36 | TBD
+bzd |Bribri | 23.47 | TBD
+cni | Asháninka | 24.92 | TBD
+ctp | Chatino |  29.84 | TBD
+gn | Guarani | 37.02 | TBD
+hch | Wixarika | 28.67 | TBD
+nah | Nahuatl | 22.78 | TBD
+oto | Otomí |  13.32 | TBD
+quy | Quechua | 28.81 | TBD
+shp | Shipibo-Konibo | 30.21 | TBD
+tar | Rarámuri | 16.98 | TBD
