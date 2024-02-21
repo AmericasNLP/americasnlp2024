@@ -4,6 +4,8 @@ This directory contains baseline resources for the AmericanNLP2024 Shared Task 1
 
 You can find more information in their Github repository: [https://github.com/Helsinki-NLP/americasnlp2023-st](https://github.com/Helsinki-NLP/americasnlp2023-st)
 
+As a baseline, we are using their submission #6 and their model B.
+
 ## Contents
 
 - `chatino_postprocessing.py`: A Python script for post-processing the translated Chatino text, addressing language-specific formatting and conventions.
@@ -15,7 +17,7 @@ You can find more information in their Github repository: [https://github.com/He
 
 ## Getting Started
 
-1. **Model Download**: Run `download_model.sh` to download the necessary pre-trained models for translation.
+1. **Model Download**: Run `download_model.sh` to download the necessary pre-trained model for translation.
 2. **Modify `translate.sh`**: Make sure to modify the correspoding paths in the file and to have the necessary dependencies installed.
 3. **Translate**:  Run `translate.sh` to download the necessary pre-trained models for translation.
 
