@@ -65,14 +65,14 @@ Results for test sets in **Chrf++**:
 
 | ISO| Language | Helsinki | Sheffield
 ---|---|----|----
-aym | Aymara | 29.36 | TBD
-bzd |Bribri | 23.47 | TBD
-cni | Asháninka | 24.92 | TBD
-ctp | Chatino |  29.84 | TBD
-gn | Guarani | 37.02 | TBD
-hch | Wixarika | 28.67 | TBD
-nah | Nahuatl | 22.78 | TBD
-oto | Otomí |  13.32 | TBD
-quy | Quechua | 28.81 | TBD
-shp | Shipibo-Konibo | 30.21 | TBD
-tar | Rarámuri | 16.98 | TBD
+aym | Aymara | 29.36 | **31.84**
+bzd |Bribri | 23.47 | **25.58**
+cni | Asháninka | **24.92** | 24.76
+ctp | Chatino |  29.84 | **37.05**
+gn | Guarani | **37.02** | 35.76
+hch | Wixarika | **28.67** | 28.28
+nah | Nahuatl | 22.78 | **23.28**
+oto | Otomí |  **13.32** | 12.87
+quy | Quechua | 28.81 | **34.01**
+shp | Shipibo-Konibo | **30.21** | 30.06
+tar | Rarámuri | **16.98** | 16.25
