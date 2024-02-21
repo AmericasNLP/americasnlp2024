@@ -36,8 +36,6 @@ This year we provide two baseline systems, based on the best contenders of the p
 
 We provide ChrF++ results computed with the [evaluate.py](evaluate.py) script.
 
-*Coming soon*: Sheffield baseline
-
 ## Results
 
 ### Development set
