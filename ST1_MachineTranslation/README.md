@@ -5,6 +5,7 @@ System description papers can be found [here for 2021](https://aclanthology.org/
 
 ## Updates
 
+- 2/21/2024 : The baselines have been released!
 - 2/5/2024 : The training and development data has been released!
 
 ## Shared Task
