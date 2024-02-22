@@ -2,65 +2,65 @@ Evaluating... oto
 []
 599
 #### Score Report ####
-chrF2++ = 12.43
-BLEU = 2.00
+chrF2++ = 13.10
+BLEU = 1.12
 Evaluating... bzd
-[611, 759]
-994
+[]
+996
 #### Score Report ####
-chrF2++ = 9.74
-BLEU = 2.85
+chrF2++ = 22.65
+BLEU = 5.54
 Evaluating... aym
-[249, 749]
-994
+[]
+996
 #### Score Report ####
-chrF2++ = 13.08
-BLEU = 2.89
+chrF2++ = 32.63
+BLEU = 5.35
 Evaluating... hch
 []
 994
 #### Score Report ####
-chrF2++ = 15.80
-BLEU = 3.95
+chrF2++ = 27.98
+BLEU = 8.76
 Evaluating... tar
-[811]
-994
+[]
+995
 #### Score Report ####
-chrF2++ = 12.57
-BLEU = 2.37
+chrF2++ = 17.58
+BLEU = 1.32
 Evaluating... shp
-[657, 762]
-994
+[]
+996
 #### Score Report ####
-chrF2++ = 12.95
-BLEU = 2.49
+chrF2++ = 30.59
+BLEU = 6.37
 Evaluating... gn
-[934]
-994
+[]
+995
 #### Score Report ####
-chrF2++ = 19.26
-BLEU = 3.61
+chrF2++ = 34.74
+BLEU = 8.04
 Evaluating... quy
-[653, 739]
-994
+[]
+996
 #### Score Report ####
-chrF2++ = 14.07
-BLEU = 2.63
+chrF2++ = 28.78
+BLEU = 3.77
 Evaluating... czn
 []
 499
 #### Score Report ####
-chrF2++ = 8.93
-BLEU = 2.60
+chrF2++ = 30.06
+BLEU = 8.93
 Evaluating... nah
-[202]
-671
+[]
+672
 #### Score Report ####
-chrF2++ = 14.50
-BLEU = 3.14
+chrF2++ = 26.45
+BLEU = 3.24
 Evaluating... cni
-[71, 122]
-881
+[]
+883
 #### Score Report ####
-chrF2++ = 13.18
-BLEU = 2.42
+chrF2++ = 25.68
+BLEU = 4.66
