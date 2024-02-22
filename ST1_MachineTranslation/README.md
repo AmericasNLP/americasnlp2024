@@ -45,17 +45,17 @@ Results for development sets in **ChrF++**:
 
 | ISO| Language | Helsinki | Sheffield
 ---|---|----|----
-aym | Aymara | 13.08 | TBD
-bzd |Bribri | 9.74 | TBD
-cni | Asháninka | 13.18 | TBD
-ctp | Chatino |  8.93 | TBD
-gn | Guarani | 19.26 | TBD
-hch | Wixarika | 15.80 | TBD
-nah | Nahuatl | 14.50 | TBD
-oto | Otomí |  12.43 | TBD
-quy | Quechua | 14.07 | TBD
-shp | Shipibo-Konibo | 12.95 | TBD
-tar | Rarámuri | 12.57 | TBD
+aym | Aymara | 32.63 | 34.28
+bzd |Bribri | 22.65 | 25.03
+cni | Asháninka | 25.68 | 26.64
+ctp | Chatino |  30.06 | 37.33
+gn | Guarani | 34.74 | 32.17
+hch | Wixarika | 27.98 | 27.98
+nah | Nahuatl | 26.45 | 25.58
+oto | Otomí |  13.10 | 12.69
+quy | Quechua | 28.78 | 30.22
+shp | Shipibo-Konibo | 30.59 | 28.39
+tar | Rarámuri | 17.58 | 16.91
 
 
 ### Test set
