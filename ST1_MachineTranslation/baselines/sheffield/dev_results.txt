@@ -1,0 +1,66 @@
+Evaluating... oto
+[]
+599
+#### Score Report ####
+chrF2++ = 12.69
+BLEU = 1.00
+Evaluating... ayr
+[]
+996
+#### Score Report ####
+chrF2++ = 34.28
+BLEU = 6.12
+Evaluating... bzd
+[]
+996
+#### Score Report ####
+chrF2++ = 25.03
+BLEU = 6.02
+Evaluating... grn
+[]
+995
+#### Score Report ####
+chrF2++ = 32.17
+BLEU = 6.81
+Evaluating... hch
+[]
+994
+#### Score Report ####
+chrF2++ = 27.98
+BLEU = 9.61
+Evaluating... tar
+[]
+995
+#### Score Report ####
+chrF2++ = 16.91
+BLEU = 1.63
+Evaluating... shp
+[]
+996
+#### Score Report ####
+chrF2++ = 28.39
+BLEU = 5.00
+Evaluating... quy
+[]
+996
+#### Score Report ####
+chrF2++ = 30.22
+BLEU = 3.96
+Evaluating... czn
+[]
+499
+#### Score Report ####
+chrF2++ = 37.33
+BLEU = 12.57
+Evaluating... nah
+[]
+672
+#### Score Report ####
+chrF2++ = 25.58
+BLEU = 2.01
+Evaluating... cni
+[]
+883
+#### Score Report ####
+chrF2++ = 26.34
+BLEU = 3.57

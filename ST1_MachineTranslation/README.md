@@ -47,7 +47,7 @@ Results for development sets in **ChrF++**:
 ---|---|----|----
 aym | Aymara | 32.63 | 34.28
 bzd |Bribri | 22.65 | 25.03
-cni | Asháninka | 25.68 | 26.64
+cni | Asháninka | 25.68 | 26.34
 ctp | Chatino |  30.06 | 37.33
 gn | Guarani | 34.74 | 32.17
 hch | Wixarika | 27.98 | 27.98
