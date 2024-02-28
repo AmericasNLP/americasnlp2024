@@ -1,23 +1,3 @@
-## Parallel data
-
-The main source for Spanish (es) - Aymara (aym) is Global Voices, from OPUS (http://opus.nlpl.eu/GlobalVoices.php). 
-
-We are providing the parallel data for both Spanish-Aymara and English-Aymara. Only the Spanish-Aymara is included in the main ```train.aym``` and ```train.es``` files.
-
-If you use these corpora, please cite:
-```
-@inproceedings{tiedemann-2012-parallel,
-    title = "Parallel Data, Tools and Interfaces in {OPUS}",
-    author = {Tiedemann, J{\"o}rg},
-    booktitle = "Proceedings of the Eighth International Conference on Language Resources and Evaluation ({LREC}'12)",
-    month = may,
-    year = "2012",
-    address = "Istanbul, Turkey",
-    publisher = "European Language Resources Association (ELRA)",
-    url = "http://www.lrec-conf.org/proceedings/lrec2012/pdf/463_Paper.pdf",
-    pages = "2214--2218",
-}
-```
 # TSV files
 The HelsinkiNLP participation in the MT shared task in previous years included gathering additional resources. When available for each language-pair, these resources have been made available to participants in the `extra.tsv` and `synthetic.tsv` files.
 Each `.tsv` document contains 3 columns, with a parallel sentence and its origin, as follows: 
@@ -51,3 +31,4 @@ If you use these resources, please cite:
     year = "2023",
     address = "Toronto, Canada",
     publisher = "Association for Computational Linguistics",
+
