@@ -20,7 +20,10 @@ with open(dev_prediction_file, newline="", encoding="utf-8") as ifile:
         references.append(row["Target"])
         predictions.append(row["Predicted Target"])
 
+accuracy = (
+    sum([int(r == p) for r, p in zip(references, predictions)]) / len(references) * 100
+)
 bleu = sacrebleu.corpus_bleu(predictions, [references]).format(score_only=True)
 chrf = sacrebleu.corpus_chrf(predictions, [references]).format(score_only=True)
 
-print(f"{dev_prediction_file}: BLEU={bleu}, ChrF={chrf}")
+print(f"{dev_prediction_file}: Accuracy={accuracy:.02f}, BLEU={bleu}, ChrF={chrf}")

@@ -31,11 +31,13 @@ python evaluate.py bribri-dev-prediction.tsv
 
 ## Results
 
-| Language |  BLEU | ChrF |
------------|-------|-------
-Bribri     | 20.35 | 45.56
-Guarani    | 34.99 | 77.14
-Maya       | 52.38 | 78.72
+The main metric of the shared task is accuracy. BLEU and ChrF are provided as secondary metrics.
+
+| Language | Accuracy |  BLEU | ChrF |
+-----------|----------|-------|-------
+Bribri     |     5.66 | 20.35 | 45.56
+Guarani    |    22.78 | 34.99 | 77.14
+Maya       |    26.17 | 52.38 | 78.72
 
 ## No-op baseline
 
@@ -44,8 +46,8 @@ There is no code for it, since it's trivial.
 
 Results for the no-op baseline:
 
-| Language |  BLEU | ChrF |
------------|-------|-------
-Bribri     | 10.59 | 38.42
-Guarani    | 23.33 | 71.47
-Maya       | 33.67 | 69.15
+| Language | Accuracy |  BLEU | ChrF |
+-----------|----------|-------|-------
+Bribri     |     0.00 | 10.59 | 38.42
+Guarani    |     0.00 | 23.33 | 71.47
+Maya       |     0.00 | 33.67 | 69.15
